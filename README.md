@@ -24,4 +24,5 @@ This web app illustrates the following functionality:
 2. Get topics of interest for a profile's followers. Same functionality as above, but for a user profile's follower base. 
 3. For a given topic, get a list of users who recently Tweeted about this topic.
 4. For a given topic, get resonance metrics (including number of Tweets sent within the past 7 days, and aggregate engagement metrics, such as retweets, quote Tweets, likes, and replies).
-Owned by Jason Scott Heise and Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
